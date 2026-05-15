@@ -19,7 +19,7 @@ I have implemented my design on Altium designer. After creating a new project, I
 [Symbols and Footprints](https://github.com/harinibabu63/heart-rate-monitoring-pcb/blob/main/Footprint(%20Heart%20rate%20monitor).png)
 While designing the PCB board it is important to take care of the footprint and dimensions of each component. Footprints should be the same as per component size otherwise your design will not be perfect.
 
-PCB Design:
+[PCB Design](
 After creating the design in the schematic, I have converted it to the PCB. Where I have designed my board with a specific size and dimensions. This includes the routing of the board on different layers. At this part, I can view the 3d model of my board.
 
 
