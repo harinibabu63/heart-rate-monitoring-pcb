@@ -16,7 +16,7 @@ This IC consists of two high gain amplifiers. The reason for using this IC is th
 [Schematic Diagram](https://github.com/harinibabu63/heart-rate-monitoring-pcb/blob/main/Heart%20rate%20monitoring%20schematic.png)
 I have implemented my design on Altium designer. After creating a new project, I have designed the symbols and footprints of each component in a schematic document. In the center, there is an op-amp i.e. LM358, and a header on the left side for battery terminals. Below is the schematic diagram of my design.
 
-[Symbols and Footprints](https://github.com/harinibabu63/heart-rate-monitoring-pcb/blob/main/Footprint(%20Heart%20rate%20monitor).png
+[Symbols and Footprints](https://github.com/harinibabu63/heart-rate-monitoring-pcb/blob/main/Footprint(%20Heart%20rate%20monitor).png)
 While designing the PCB board it is important to take care of the footprint and dimensions of each component. Footprints should be the same as per component size otherwise your design will not be perfect.
 
 PCB Design:
