@@ -13,7 +13,7 @@ In this project, I have designed a heartbeat monitor. This module consists of LD
 Specifications of LM358 Op Amplifier:
 This IC consists of two high gain amplifiers. The reason for using this IC is that it does not require another independent power supply for the working of each comparator. For a single power supply, it provides input voltages from 3V to 32V while for a dual power supply it provides voltages from 1.5V to 16V. It has a DC gain of 100dB. This IC consists of two input power supplies and one output supply in a comparator. It provides a wide range of power supplies.
 
-[Schematic Diagram]:(https://github.com/harinibabu63/heart-rate-monitoring-pcb/blob/main/Heart%20rate%20monitoring%20schematic.png)
+[Schematic Diagram](https://github.com/harinibabu63/heart-rate-monitoring-pcb/blob/main/Heart%20rate%20monitoring%20schematic.png)
 I have implemented my design on Altium designer. After creating a new project, I have designed the symbols and footprints of each component in a schematic document. In the center, there is an op-amp i.e. LM358, and a header on the left side for battery terminals. Below is the schematic diagram of my design.
 Symbols and Footprints:
 While designing the PCB board it is important to take care of the footprint and dimensions of each component. Footprints should be the same as per component size otherwise your design will not be perfect.
