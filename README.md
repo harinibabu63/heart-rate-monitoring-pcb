@@ -10,7 +10,7 @@ The manual way is not efficient in measuring the heart rate because there are mo
 Working:
 In this project, I have designed a heartbeat monitor. This module consists of LDR(Light-dependent resistor), and LM358. The LM358 is a transducer amplifier which means that it will take the electrical signals from your heart and will convert them to digital signals in the form of pulses. Whenever a pulse is detected, this module will turn on the LED. This modulated light is received by the light detector. In LDR, when light falls on the resistor, its resistance changes. As the light intensity increases, resistance decreases. Thus, the voltage drops across the resistor decreases. The LM358 has a comparator that compares the output voltages to threshold voltages. If the output voltage is higher than the threshold it means the intensity is high and vice versa. This is how this device measures the intensity of your workout.
 
-Specifications of LM358 Op Amplifier:
+[Specifications of LM358 Op Amplifier](https://github.com/harinibabu63/heart-rate-monitoring-pcb/blob/main/opamp.png)
 This IC consists of two high gain amplifiers. The reason for using this IC is that it does not require another independent power supply for the working of each comparator. For a single power supply, it provides input voltages from 3V to 32V while for a dual power supply it provides voltages from 1.5V to 16V. It has a DC gain of 100dB. This IC consists of two input power supplies and one output supply in a comparator. It provides a wide range of power supplies.
 
 [Schematic Diagram](https://github.com/harinibabu63/heart-rate-monitoring-pcb/blob/main/Heart%20rate%20monitoring%20schematic.png)
