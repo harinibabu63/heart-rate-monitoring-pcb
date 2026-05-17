@@ -1,5 +1,5 @@
 # Heart-rate-monitoring-pcb
-PCB-based heart rate monitoring circuit using LDR and LM358 op-amp.
+PCB-based heart rate monitoring circuit using LDR and LM358 op-amp. 
 Heart Rate Monitoring Device for Workout
  
 The heart rate monitor is used to measure heartbeats in a minute. It can be useful in many applications like health and fitness. For those who go for workouts daily, it has been easy for them to keep track of their moves and steps with the help of this device. To maintain good health, it is important to do exercise at some target heart rate. This will help in achieving better health recovery. Heart rate is a crucial factor in identifying how intense your workout is. If you are over-exerting during a workout your heart will alert you by telling you your heart rate through this device. There are two ways by which heart rate can be measured:
